@@ -1,0 +1,9 @@
+development:
+  adapter: mysql
+  database: firstproject 
+  pool: 5
+  username: root
+  password: good2day
+  socket: /c/Rails_Projects/my_app/mysql.sock
+
+
